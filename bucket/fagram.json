@@ -1,16 +1,16 @@
 {
-    "version": "1.1.9",
+    "version": "1.1.10",
     "description": "FAgram Desktop is a custom Telegram client. ",
     "homepage": "https://github.com/FajoX1/fagramdesktop",
     "license": "GPL-3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/FajoX1/fagramdesktop/releases/download/v1.1.9/FAgram_x32_portable.zip",
-            "hash": "fa34aeeee103cd49606212d94cc276773a1356feb7a3398f0e7a17592a739b07"
+            "url": "https://github.com/FajoX1/fagramdesktop/releases/download/v1.1.10/FAgram_x32_portable.zip",
+            "hash": "edb0eb6e7aaa6a7dac14f6d0a9221b797c21978ce98dd8612487e74e3d03365f"
         },
         "64bit": {
-            "url": "https://github.com/FajoX1/fagramdesktop/releases/download/v1.1.9/FAgram_x64_portable.zip",
-            "hash": "3288317dcf938ea86d0ca133f34795c69aa12ba19d17f2c390076f59f38f0431"
+            "url": "https://github.com/FajoX1/fagramdesktop/releases/download/v1.1.10/FAgram_x64_portable.zip",
+            "hash": "79902a9fae1ed55f1481743d8e7fdc577b34cef6b590ffdbb5013903cdddd152"
         }
     },
     "shortcuts": [
